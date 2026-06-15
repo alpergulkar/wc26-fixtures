@@ -2241,24 +2241,35 @@ function getResultFor(mch) {
   return null;
 }
 
-/** Tamamlanan grup maçlarından puan durumunu hesaplar (API hazır vermezse).
+/** Puan durumunu maçlardan hesaplar (API hazır vermezse).
+ *  TÜM gruplar ve takımlar gösterilir; maç yapmamışlar da 0 değerleriyle yer alır.
  *  FIFA sıralaması: puan, averaj, atılan gol (basitleştirilmiş — ikili averaj hariç). */
 function computeStandings() {
   const groups = new Map(); // group → Map(teamKey → satır)
+  const isGroupMatch = r => r.group && r.home && r.away && (!r.stage || r.stage === "GROUP_STAGE");
+
+  const getRow = (group, name) => {
+    if (!groups.has(group)) groups.set(group, new Map());
+    const tbl = groups.get(group);
+    const key = normalizeTeamKey(name);
+    if (!tbl.has(key)) {
+      const t = resolveTeam(API_TEAM_ALIASES[name] || name);
+      tbl.set(key, { team: t.name, flag: t.flag, played: 0, won: 0, draw: 0, lost: 0, gf: 0, ga: 0, gd: 0, points: 0 });
+    }
+    return tbl.get(key);
+  };
+
+  // 1) Tüm grup maçlarından takımları kaydet (henüz oynanmamış olsa bile)
   for (const r of (state.resultsList || [])) {
-    if (r.status !== "FINISHED" || !r.group || !Array.isArray(r.ft)) continue;
-    if (!r.home || !r.away) continue;
-    if (!groups.has(r.group)) groups.set(r.group, new Map());
-    const tbl = groups.get(r.group);
-    const ensure = name => {
-      const key = normalizeTeamKey(name);
-      if (!tbl.has(key)) {
-        const t = resolveTeam(API_TEAM_ALIASES[name] || name);
-        tbl.set(key, { team: t.name, flag: t.flag, played: 0, won: 0, draw: 0, lost: 0, gf: 0, ga: 0, gd: 0, points: 0 });
-      }
-      return tbl.get(key);
-    };
-    const h = ensure(r.home), a = ensure(r.away);
+    if (!isGroupMatch(r)) continue;
+    getRow(r.group, r.home);
+    getRow(r.group, r.away);
+  }
+
+  // 2) Yalnızca tamamlanan maçların istatistiklerini işle
+  for (const r of (state.resultsList || [])) {
+    if (!isGroupMatch(r) || r.status !== "FINISHED" || !Array.isArray(r.ft)) continue;
+    const h = getRow(r.group, r.home), a = getRow(r.group, r.away);
     const [hg, ag] = r.ft;
     h.played++; a.played++;
     h.gf += hg; h.ga += ag; a.gf += ag; a.ga += hg;
