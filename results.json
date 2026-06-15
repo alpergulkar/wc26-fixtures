@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T12:44:22.607Z",
+  "updatedAt": "2026-06-15T17:35:03.821Z",
   "season": "2026",
   "matches": [
     {
@@ -232,15 +232,21 @@
     },
     {
       "utcDate": "2026-06-15T16:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Spain",
       "away": "Cape Verde Islands",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
