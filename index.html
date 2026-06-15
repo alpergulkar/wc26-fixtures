@@ -395,6 +395,37 @@
   /* Tamamlanmış maçlar geçmiş olsa da skoru okunsun diye daha az soluk */
   .match.past.done { opacity: 0.82; }
 
+  /* ===================== BİTEN MAÇLAR AKORDİYONU ===================== */
+  .past-accordion {
+    border: 1px solid var(--border); border-radius: var(--radius);
+    background: var(--surface); box-shadow: var(--shadow-sm); margin-bottom: 22px;
+    overflow: hidden;
+  }
+  .past-accordion > summary {
+    display: flex; align-items: center; gap: 10px; cursor: pointer;
+    padding: 15px 18px; font-weight: 700; color: var(--text);
+    list-style: none; user-select: none;
+  }
+  .past-accordion > summary::-webkit-details-marker { display: none; }
+  .past-accordion > summary:hover { background: var(--surface-2); }
+  .past-accordion > summary:focus-visible {
+    outline: none; box-shadow: inset 0 0 0 3px var(--green-ring);
+  }
+  .past-accordion .acc-icon { color: var(--text-2); flex-shrink: 0; }
+  .past-accordion .acc-title { font-size: 1rem; }
+  .past-accordion .acc-count {
+    font-size: 0.8125rem; font-weight: 700; color: var(--text-2);
+    background: var(--surface-2); border: 1px solid var(--border);
+    border-radius: 999px; padding: 1px 10px;
+  }
+  .past-accordion .acc-chevron {
+    margin-left: auto; color: var(--text-3); transition: transform 0.2s ease;
+  }
+  .past-accordion[open] > summary .acc-chevron { transform: rotate(180deg); }
+  .past-accordion[open] > summary { border-bottom: 1px solid var(--border); }
+  .past-accordion .past-body { padding: 16px 18px 4px; }
+  .past-accordion .past-body .day-group:first-child { margin-top: 0; }
+
   .match .venue {
     text-align: center; color: var(--text-2); font-size: 0.8125rem; margin-top: 8px;
   }
@@ -2416,12 +2447,15 @@ function renderList() {
     els.listView.innerHTML = `<div class="empty-state">Filtrelere uyan maç bulunamadı.</div>`;
     return;
   }
+  const now = Date.now();
+  const endOf = m => m.end ? m.end.getTime() : m.start.getTime() + 2 * 3600 * 1000;
+  const past = matches.filter(m => endOf(m) < now);       // bitmiş maçlar
+  const upcoming = matches.filter(m => endOf(m) >= now);  // başlamamış + canlı
   const todayKey = dayKey(new Date());
-  const groups = groupByDay(matches);
-  let html = "";
-  for (const g of groups) {
+
+  const dayGroupHTML = g => {
     const isToday = g.key === todayKey;
-    html += `
+    return `
       <div class="day-group">
         <div class="day-header ${isToday ? "today-h" : ""}">
           <span class="date">${formatDateTR(g.date)}</span>
@@ -2430,7 +2464,29 @@ function renderList() {
         </div>
         ${g.items.map(matchCardHTML).join("")}
       </div>`;
+  };
+
+  let html = "";
+
+  // 1) Biten maçlar — en üstte, varsayılan kapalı akordiyon, yeni → eski
+  if (past.length) {
+    const pastGroups = groupByDay(past).reverse()
+      .map(g => ({ ...g, items: [...g.items].reverse() }));
+    html += `
+      <details class="past-accordion">
+        <summary>
+          <svg class="acc-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 8a6 6 0 1 0 12 0A6 6 0 0 0 2 8Z"/><path d="M8 5v3l2 1.5"/></svg>
+          <span class="acc-title">Biten Maçlar</span>
+          <span class="acc-count">${past.length}</span>
+          <svg class="acc-chevron" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg>
+        </summary>
+        <div class="past-body">${pastGroups.map(dayGroupHTML).join("")}</div>
+      </details>`;
   }
+
+  // 2) Başlamamış + canlı maçlar — artan sırada
+  html += groupByDay(upcoming).map(dayGroupHTML).join("");
+
   els.listView.innerHTML = html;
 }
 
