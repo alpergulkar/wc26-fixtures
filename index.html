@@ -2177,21 +2177,33 @@ function filteredMatches() {
    5b) MAÇ SONUÇLARI — results.json yükleme + ICS maçlarıyla eşleştirme
    ========================================================================= */
 
-/** results.json'u (aynı klasörden) yükler, indeksleri kurar ve yeniden çizer.
- *  Dosya yoksa/boşsa sessizce geçer — skorlar görünmez, uygulama çalışır. */
+/* results.json kaynakları (sırayla denenir):
+   1) GitHub raw — GitHub Actions her güncellediğinde taze veri (chronos.al'dan
+      CORS sorunsuz okunur). 2) Aynı klasördeki yerel dosya (yedek/çevrimdışı). */
+const RESULTS_SOURCES = [
+  "https://raw.githubusercontent.com/alpergulkar/wc26-fixtures/main/results.json",
+  "results.json"
+];
+
+/** results.json'u yükler, indeksleri kurar ve yeniden çizer.
+ *  Hiçbir kaynak okunamazsa sessizce geçer — skorlar görünmez, uygulama çalışır. */
 async function loadResults() {
-  try {
-    const res = await fetch("results.json", { cache: "no-store" });
-    if (!res.ok) return;
-    const data = await res.json();
-    indexResults(data);
-    state.resultsUpdatedAt = data.updatedAt || null;
-    state.standings = Array.isArray(data.standings) ? data.standings : [];
-    // Puan durumu sekmesi: veri varsa göster
-    if (els.standingsTab) els.standingsTab.style.display = state.standings.length ? "" : "none";
-    if (state.matches.length) render();
-  } catch (err) {
-    console.warn("results.json yüklenemedi:", err);
+  for (const url of RESULTS_SOURCES) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) continue;
+      const data = await res.json();
+      if (!data || !Array.isArray(data.matches)) continue;
+      indexResults(data);
+      state.resultsUpdatedAt = data.updatedAt || null;
+      state.standings = Array.isArray(data.standings) ? data.standings : [];
+      // Puan durumu sekmesi: veri varsa göster
+      if (els.standingsTab) els.standingsTab.style.display = state.standings.length ? "" : "none";
+      if (state.matches.length) render();
+      return;
+    } catch (err) {
+      // bu kaynak başarısız — sıradakini dene
+    }
   }
 }
 
