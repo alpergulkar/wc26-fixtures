@@ -2560,14 +2560,32 @@ function groupTableHTML(g) {
     </div>`;
 }
 
-/** Puan durumu görünümünü çizer. */
+/** Bir puan-durumu satırının görünen (Türkçe) takım adını verir. */
+function standingRowName(r) {
+  return r.flag ? r.team : resolveTeam(API_TEAM_ALIASES[r.team] || r.team || "").name;
+}
+
+/** Puan durumu görünümünü çizer. Arama varsa grupları takım adına göre süzer. */
 function renderStandings() {
   if (!state.standings.length) {
     els.standingsView.innerHTML = `<div class="empty-state">Puan durumu henüz mevcut değil.</div>`;
     return;
   }
-  const sorted = [...state.standings].sort((a, b) => (a.group || "").localeCompare(b.group || ""));
-  els.standingsView.innerHTML = `<div class="groups-grid">${sorted.map(groupTableHTML).join("")}</div>`;
+  let groups = [...state.standings].sort((a, b) => (a.group || "").localeCompare(b.group || ""));
+
+  const q = state.search.trim().toLocaleLowerCase("tr");
+  if (q) {
+    groups = groups.filter(g => (g.table || []).some(r => {
+      const hay = (standingRowName(r) + " " + (r.team || "")).toLocaleLowerCase("tr");
+      return hay.includes(q);
+    }));
+  }
+
+  if (!groups.length) {
+    els.standingsView.innerHTML = `<div class="empty-state">"${escapeHtml(state.search.trim())}" ile eşleşen takım bulunamadı.</div>`;
+    return;
+  }
+  els.standingsView.innerHTML = `<div class="groups-grid">${groups.map(groupTableHTML).join("")}</div>`;
 }
 
 /** Aktif görünümü çizer. */
@@ -2580,8 +2598,13 @@ function render() {
   els.calendarView.style.display = "none";
   els.listView.style.display = "none";
   els.standingsView.style.display = "none";
-  // Arama/aşama filtresi yalnızca maç görünümlerinde anlamlı
-  if (els.filters) els.filters.style.display = (state.view === "standings") ? "none" : "";
+  // Arama kutusu her görünümde var; aşama filtresi yalnızca maç görünümlerinde
+  const isStandings = state.view === "standings";
+  if (els.filters) els.filters.style.display = "";
+  if (els.stageFilter) els.stageFilter.style.display = isStandings ? "none" : "";
+  if (els.search) els.search.placeholder = isStandings
+    ? "Takım adına göre grup filtrele"
+    : "Takım, şehir veya aşama ara";
 
   if (state.view === "calendar") {
     els.calendarView.style.display = "block";
