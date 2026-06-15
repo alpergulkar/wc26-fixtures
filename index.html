@@ -1686,7 +1686,9 @@ const API_TEAM_ALIASES = {
   "Cabo Verde": "Cape Verde",
   "Czechia": "Czech Republic",
   "IR Iran": "Iran",
-  "Bosnia and Herzegovina": "Bosnia & Herzegovina"
+  "Bosnia and Herzegovina": "Bosnia & Herzegovina",
+  "Bosnia-Herzegovina": "Bosnia & Herzegovina",
+  "Cape Verde Islands": "Cape Verde"
 };
 
 /** API takım adını ICS adına çevirir; eşleştirme için küçük harfe indirger. */
@@ -2196,7 +2198,10 @@ async function loadResults() {
       if (!data || !Array.isArray(data.matches)) continue;
       indexResults(data);
       state.resultsUpdatedAt = data.updatedAt || null;
-      state.standings = Array.isArray(data.standings) ? data.standings : [];
+      // Puan durumu: API hazır veriyorsa onu kullan, yoksa maçlardan hesapla
+      state.standings = (Array.isArray(data.standings) && data.standings.length)
+        ? data.standings
+        : computeStandings();
       // Puan durumu sekmesi: veri varsa göster
       if (els.standingsTab) els.standingsTab.style.display = state.standings.length ? "" : "none";
       if (state.matches.length) render();
@@ -2212,6 +2217,7 @@ function indexResults(data) {
   state.resultsByTime = new Map();
   state.resultsByName = new Map();
   const list = (data && Array.isArray(data.matches)) ? data.matches : [];
+  state.resultsList = list;
   for (const r of list) {
     if (!r || !r.utcDate) continue;
     const ms = new Date(r.utcDate).getTime();
@@ -2233,6 +2239,44 @@ function getResultFor(mch) {
     if (byName) return byName;
   }
   return null;
+}
+
+/** Tamamlanan grup maçlarından puan durumunu hesaplar (API hazır vermezse).
+ *  FIFA sıralaması: puan, averaj, atılan gol (basitleştirilmiş — ikili averaj hariç). */
+function computeStandings() {
+  const groups = new Map(); // group → Map(teamKey → satır)
+  for (const r of (state.resultsList || [])) {
+    if (r.status !== "FINISHED" || !r.group || !Array.isArray(r.ft)) continue;
+    if (!r.home || !r.away) continue;
+    if (!groups.has(r.group)) groups.set(r.group, new Map());
+    const tbl = groups.get(r.group);
+    const ensure = name => {
+      const key = normalizeTeamKey(name);
+      if (!tbl.has(key)) {
+        const t = resolveTeam(API_TEAM_ALIASES[name] || name);
+        tbl.set(key, { team: t.name, flag: t.flag, played: 0, won: 0, draw: 0, lost: 0, gf: 0, ga: 0, gd: 0, points: 0 });
+      }
+      return tbl.get(key);
+    };
+    const h = ensure(r.home), a = ensure(r.away);
+    const [hg, ag] = r.ft;
+    h.played++; a.played++;
+    h.gf += hg; h.ga += ag; a.gf += ag; a.ga += hg;
+    if (hg > ag) { h.won++; a.lost++; h.points += 3; }
+    else if (ag > hg) { a.won++; h.lost++; a.points += 3; }
+    else { h.draw++; a.draw++; h.points++; a.points++; }
+  }
+
+  const out = [];
+  for (const [group, tbl] of groups) {
+    const rows = [...tbl.values()];
+    rows.forEach(x => x.gd = x.gf - x.ga);
+    rows.sort((x, y) => y.points - x.points || y.gd - x.gd || y.gf - x.gf || x.team.localeCompare(y.team, "tr"));
+    rows.forEach((x, i) => x.pos = i + 1);
+    out.push({ group, table: rows });
+  }
+  out.sort((a, b) => a.group.localeCompare(b.group));
+  return out;
 }
 
 /** Sonuç kaydından kazananı belirler: "home" | "away" | "draw" | null. */
@@ -2480,7 +2524,8 @@ function groupLabel(code) {
 /** Tek bir grup tablosunun HTML'ini üretir. */
 function groupTableHTML(g) {
   const rows = (g.table || []).map(r => {
-    const t = resolveTeam(API_TEAM_ALIASES[r.team] || r.team || "");
+    // Hesaplanmış satırlarda ad/bayrak hazır; API satırlarında çözümle
+    const t = r.flag ? { name: r.team, flag: r.flag } : resolveTeam(API_TEAM_ALIASES[r.team] || r.team || "");
     return `
       <tr>
         <td class="pos">${r.pos ?? ""}</td>
