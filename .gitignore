@@ -1,0 +1,12 @@
+# Bağımlılık / derleme çıktıları
+node_modules/
+
+# Yerel/geçici dosyalar
+_test.js
+*.log
+
+# İşletim sistemi / editör artıkları
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
