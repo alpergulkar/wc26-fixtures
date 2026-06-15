@@ -1,0 +1,944 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wc2026//Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - All fixtures
+X-WR-CALDESC:Personalized FIFA World Cup 2026 fixture calendar
+BEGIN:VEVENT
+UID:fx-1-group-md-A-mexico-south-africa-2026-06-11-13:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:Mexico vs South Africa - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 1\nMatch 1\nVenue: Mexico City\, Mexico\nLocal kickoff: 2026-06-11 13:00 UTC-6
+LOCATION:Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-2-group-md-A-south-korea-czech-republic-2026-06-11-20:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:South Korea vs Czech Republic - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 1\nMatch 2\nVenue: Guadalajara (Zapopan)\, Mexico\nLocal kickoff: 2026-06-11 20:00 UTC-6
+LOCATION:Guadalajara (Zapopan)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-7-group-md-B-canada-bosnia-herzegovina-2026-06-12-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:Canada vs Bosnia & Herzegovina - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 2\nMatch 7\nVenue: Toronto\, Canada\nLocal kickoff: 2026-06-12 15:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-19-group-md-D-usa-paraguay-2026-06-12-18:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:USA vs Paraguay - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 2\nMatch 19\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-12 18:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-8-group-md-B-qatar-switzerland-2026-06-13-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Qatar vs Switzerland - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 3\nMatch 8\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-06-13 12:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-13-group-md-C-brazil-morocco-2026-06-13-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Brazil vs Morocco - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 3\nMatch 13\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-13 18:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-14-group-md-C-haiti-scotland-2026-06-13-21:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:Haiti vs Scotland - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 3\nMatch 14\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-13 21:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-20-group-md-D-australia-turkey-2026-06-13-21:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:Australia vs Turkey - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 3\nMatch 20\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-06-13 21:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-25-group-md-E-germany-curacao-2026-06-14-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:Germany vs Curaçao - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 4\nMatch 25\nVenue: Houston\, United States\nLocal kickoff: 2026-06-14 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-31-group-md-F-netherlands-japan-2026-06-14-15:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:Netherlands vs Japan - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 4\nMatch 31\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-14 15:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-26-group-md-E-ivory-coast-ecuador-2026-06-14-19:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Ivory Coast vs Ecuador - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 4\nMatch 26\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-06-14 19:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-32-group-md-F-sweden-tunisia-2026-06-14-20:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:Sweden vs Tunisia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 4\nMatch 32\nVenue: Monterrey (Guadalupe)\, Mexico\nLocal kickoff: 2026-06-14 20:00 UTC-6
+LOCATION:Monterrey (Guadalupe)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-43-group-md-H-spain-cape-verde-2026-06-15-12:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Spain vs Cape Verde - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 5\nMatch 43\nVenue: Atlanta\, United States\nLocal kickoff: 2026-06-15 12:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-37-group-md-G-belgium-egypt-2026-06-15-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Belgium vs Egypt - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 5\nMatch 37\nVenue: Seattle\, United States\nLocal kickoff: 2026-06-15 12:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-44-group-md-H-saudi-arabia-uruguay-2026-06-15-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:Saudi Arabia vs Uruguay - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 5\nMatch 44\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-06-15 18:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-38-group-md-G-iran-new-zealand-2026-06-15-18:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:Iran vs New Zealand - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 5\nMatch 38\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-15 18:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-49-group-md-I-france-senegal-2026-06-16-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:France vs Senegal - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 6\nMatch 49\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-16 15:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-50-group-md-I-iraq-norway-2026-06-16-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:Iraq vs Norway - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 6\nMatch 50\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-16 18:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-55-group-md-J-argentina-algeria-2026-06-16-20:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:Argentina vs Algeria - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 6\nMatch 55\nVenue: Kansas City\, United States\nLocal kickoff: 2026-06-16 20:00 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-56-group-md-J-austria-jordan-2026-06-16-21:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:Austria vs Jordan - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 6\nMatch 56\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-06-16 21:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-61-group-md-K-portugal-dr-congo-2026-06-17-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Portugal vs DR Congo - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 7\nMatch 61\nVenue: Houston\, United States\nLocal kickoff: 2026-06-17 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-67-group-md-L-england-croatia-2026-06-17-15:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:England vs Croatia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 7\nMatch 67\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-17 15:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-68-group-md-L-ghana-panama-2026-06-17-19:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Ghana vs Panama - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 7\nMatch 68\nVenue: Toronto\, Canada\nLocal kickoff: 2026-06-17 19:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-62-group-md-K-uzbekistan-colombia-2026-06-17-20:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:Uzbekistan vs Colombia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 7\nMatch 62\nVenue: Mexico City\, Mexico\nLocal kickoff: 2026-06-17 20:00 UTC-6
+LOCATION:Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-3-group-md-A-czech-republic-south-africa-2026-06-18-12:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Czech Republic vs South Africa - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 8\nMatch 3\nVenue: Atlanta\, United States\nLocal kickoff: 2026-06-18 12:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-9-group-md-B-switzerland-bosnia-herzegovina-2026-06-18-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Switzerland vs Bosnia & Herzegovina - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 8\nMatch 9\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-18 12:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-10-group-md-B-canada-qatar-2026-06-18-15:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Canada vs Qatar - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 8\nMatch 10\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-06-18 15:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-4-group-md-A-mexico-south-korea-2026-06-18-19:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:Mexico vs South Korea - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 8\nMatch 4\nVenue: Guadalajara (Zapopan)\, Mexico\nLocal kickoff: 2026-06-18 19:00 UTC-6
+LOCATION:Guadalajara (Zapopan)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-21-group-md-D-usa-australia-2026-06-19-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:USA vs Australia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 9\nMatch 21\nVenue: Seattle\, United States\nLocal kickoff: 2026-06-19 12:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-15-group-md-C-scotland-morocco-2026-06-19-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:Scotland vs Morocco - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 9\nMatch 15\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-19 18:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-16-group-md-C-brazil-haiti-2026-06-19-21:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260620T010000Z
+DTEND:20260620T030000Z
+SUMMARY:Brazil vs Haiti - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 9\nMatch 16\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-06-19 21:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-22-group-md-D-turkey-paraguay-2026-06-19-21:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260620T040000Z
+DTEND:20260620T060000Z
+SUMMARY:Turkey vs Paraguay - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 9\nMatch 22\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-06-19 21:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-33-group-md-F-netherlands-sweden-2026-06-20-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:Netherlands vs Sweden - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 10\nMatch 33\nVenue: Houston\, United States\nLocal kickoff: 2026-06-20 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-27-group-md-E-germany-ivory-coast-2026-06-20-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:Germany vs Ivory Coast - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 10\nMatch 27\nVenue: Toronto\, Canada\nLocal kickoff: 2026-06-20 16:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-28-group-md-E-ecuador-curacao-2026-06-20-19:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Ecuador vs Curaçao - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 10\nMatch 28\nVenue: Kansas City\, United States\nLocal kickoff: 2026-06-20 19:00 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-34-group-md-F-tunisia-japan-2026-06-20-22:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:Tunisia vs Japan - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 10\nMatch 34\nVenue: Monterrey (Guadalupe)\, Mexico\nLocal kickoff: 2026-06-20 22:00 UTC-6
+LOCATION:Monterrey (Guadalupe)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-45-group-md-H-spain-saudi-arabia-2026-06-21-12:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:Spain vs Saudi Arabia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 11\nMatch 45\nVenue: Atlanta\, United States\nLocal kickoff: 2026-06-21 12:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-39-group-md-G-belgium-iran-2026-06-21-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:Belgium vs Iran - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 11\nMatch 39\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-21 12:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-46-group-md-H-uruguay-cape-verde-2026-06-21-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:Uruguay vs Cape Verde - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 11\nMatch 46\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-06-21 18:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-40-group-md-G-new-zealand-egypt-2026-06-21-18:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:New Zealand vs Egypt - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 11\nMatch 40\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-06-21 18:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-57-group-md-J-argentina-austria-2026-06-22-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:Argentina vs Austria - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 12\nMatch 57\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-22 12:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-51-group-md-I-france-iraq-2026-06-22-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:France vs Iraq - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 12\nMatch 51\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-06-22 17:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-52-group-md-I-norway-senegal-2026-06-22-20:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:Norway vs Senegal - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 12\nMatch 52\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-22 20:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-58-group-md-J-jordan-algeria-2026-06-22-20:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Jordan vs Algeria - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 12\nMatch 58\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-06-22 20:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-63-group-md-K-portugal-uzbekistan-2026-06-23-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:Portugal vs Uzbekistan - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 13\nMatch 63\nVenue: Houston\, United States\nLocal kickoff: 2026-06-23 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-69-group-md-L-england-ghana-2026-06-23-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:England vs Ghana - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 13\nMatch 69\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-23 16:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-70-group-md-L-panama-croatia-2026-06-23-19:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:Panama vs Croatia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 13\nMatch 70\nVenue: Toronto\, Canada\nLocal kickoff: 2026-06-23 19:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-64-group-md-K-colombia-dr-congo-2026-06-23-20:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:Colombia vs DR Congo - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 13\nMatch 64\nVenue: Guadalajara (Zapopan)\, Mexico\nLocal kickoff: 2026-06-23 20:00 UTC-6
+LOCATION:Guadalajara (Zapopan)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-11-group-md-B-switzerland-canada-2026-06-24-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Switzerland vs Canada - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 14\nMatch 11\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-06-24 12:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-12-group-md-B-bosnia-herzegovina-qatar-2026-06-24-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Bosnia & Herzegovina vs Qatar - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group B\nRound: Matchday 14\nMatch 12\nVenue: Seattle\, United States\nLocal kickoff: 2026-06-24 12:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-17-group-md-C-scotland-brazil-2026-06-24-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Scotland vs Brazil - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 14\nMatch 17\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-06-24 18:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-18-group-md-C-morocco-haiti-2026-06-24-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Morocco vs Haiti - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group C\nRound: Matchday 14\nMatch 18\nVenue: Atlanta\, United States\nLocal kickoff: 2026-06-24 18:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-5-group-md-A-czech-republic-mexico-2026-06-24-19:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Czech Republic vs Mexico - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 14\nMatch 5\nVenue: Mexico City\, Mexico\nLocal kickoff: 2026-06-24 19:00 UTC-6
+LOCATION:Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-6-group-md-A-south-africa-south-korea-2026-06-24-19:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:South Africa vs South Korea - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group A\nRound: Matchday 14\nMatch 6\nVenue: Monterrey (Guadalupe)\, Mexico\nLocal kickoff: 2026-06-24 19:00 UTC-6
+LOCATION:Monterrey (Guadalupe)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-29-group-md-E-curacao-ivory-coast-2026-06-25-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Curaçao vs Ivory Coast - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 15\nMatch 29\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-06-25 16:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-30-group-md-E-ecuador-germany-2026-06-25-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Ecuador vs Germany - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group E\nRound: Matchday 15\nMatch 30\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-25 16:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-35-group-md-F-japan-sweden-2026-06-25-18:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Japan vs Sweden - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 15\nMatch 35\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-25 18:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-36-group-md-F-tunisia-netherlands-2026-06-25-18:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Tunisia vs Netherlands - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group F\nRound: Matchday 15\nMatch 36\nVenue: Kansas City\, United States\nLocal kickoff: 2026-06-25 18:00 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-23-group-md-D-turkey-usa-2026-06-25-19:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Turkey vs USA - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 15\nMatch 23\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-25 19:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-24-group-md-D-paraguay-australia-2026-06-25-19:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Paraguay vs Australia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group D\nRound: Matchday 15\nMatch 24\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-06-25 19:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-53-group-md-I-norway-france-2026-06-26-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Norway vs France - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 16\nMatch 53\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-26 15:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-54-group-md-I-senegal-iraq-2026-06-26-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Senegal vs Iraq - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group I\nRound: Matchday 16\nMatch 54\nVenue: Toronto\, Canada\nLocal kickoff: 2026-06-26 15:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-47-group-md-H-cape-verde-saudi-arabia-2026-06-26-19:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Cape Verde vs Saudi Arabia - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 16\nMatch 47\nVenue: Houston\, United States\nLocal kickoff: 2026-06-26 19:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-48-group-md-H-uruguay-spain-2026-06-26-18:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Uruguay vs Spain - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group H\nRound: Matchday 16\nMatch 48\nVenue: Guadalajara (Zapopan)\, Mexico\nLocal kickoff: 2026-06-26 18:00 UTC-6
+LOCATION:Guadalajara (Zapopan)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-41-group-md-G-egypt-iran-2026-06-26-20:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Egypt vs Iran - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 16\nMatch 41\nVenue: Seattle\, United States\nLocal kickoff: 2026-06-26 20:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-42-group-md-G-new-zealand-belgium-2026-06-26-20:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:New Zealand vs Belgium - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group G\nRound: Matchday 16\nMatch 42\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-06-26 20:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-71-group-md-L-panama-england-2026-06-27-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Panama vs England - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 17\nMatch 71\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-27 17:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-72-group-md-L-croatia-ghana-2026-06-27-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Croatia vs Ghana - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group L\nRound: Matchday 17\nMatch 72\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-06-27 17:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-65-group-md-K-colombia-portugal-2026-06-27-19:30_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Colombia vs Portugal - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 17\nMatch 65\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-06-27 19:30 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-66-group-md-K-dr-congo-uzbekistan-2026-06-27-19:30_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:DR Congo vs Uzbekistan - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group K\nRound: Matchday 17\nMatch 66\nVenue: Atlanta\, United States\nLocal kickoff: 2026-06-27 19:30 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-59-group-md-J-algeria-austria-2026-06-27-21:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Algeria vs Austria - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 17\nMatch 59\nVenue: Kansas City\, United States\nLocal kickoff: 2026-06-27 21:00 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-60-group-md-J-jordan-argentina-2026-06-27-21:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Jordan vs Argentina - FIFA World Cup 2026
+DESCRIPTION:Group Stage - Group J\nRound: Matchday 17\nMatch 60\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-27 21:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-73-round_of_32-73-k-2a-2b-2026-06-28-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:Round of 32 Match 73: 2A vs 2B - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 73\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-06-28 12:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-76-round_of_32-76-k-1c-2f-2026-06-29-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:Round of 32 Match 76: 1C vs 2F - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 76\nVenue: Houston\, United States\nLocal kickoff: 2026-06-29 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-74-round_of_32-74-k-1e-3a-b-c-d-f-2026-06-29-16:30_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Round of 32 Match 74: 1E vs 3A/B/C/D/F - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 74\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-06-29 16:30 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-75-round_of_32-75-k-1f-2c-2026-06-29-19:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:Round of 32 Match 75: 1F vs 2C - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 75\nVenue: Monterrey (Guadalupe)\, Mexico\nLocal kickoff: 2026-06-29 19:00 UTC-6
+LOCATION:Monterrey (Guadalupe)\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-78-round_of_32-78-k-2e-2i-2026-06-30-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:Round of 32 Match 78: 2E vs 2I - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 78\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-06-30 12:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-77-round_of_32-77-k-1i-3c-d-f-g-h-2026-06-30-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:Round of 32 Match 77: 1I vs 3C/D/F/G/H - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 77\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-06-30 17:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-79-round_of_32-79-k-1a-3c-e-f-h-i-2026-06-30-19:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:Round of 32 Match 79: 1A vs 3C/E/F/H/I - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 79\nVenue: Mexico City\, Mexico\nLocal kickoff: 2026-06-30 19:00 UTC-6
+LOCATION:Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-80-round_of_32-80-k-1l-3e-h-i-j-k-2026-07-01-12:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:Round of 32 Match 80: 1L vs 3E/H/I/J/K - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 80\nVenue: Atlanta\, United States\nLocal kickoff: 2026-07-01 12:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-82-round_of_32-82-k-1g-3a-e-h-i-j-2026-07-01-13:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:Round of 32 Match 82: 1G vs 3A/E/H/I/J - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 82\nVenue: Seattle\, United States\nLocal kickoff: 2026-07-01 13:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-81-round_of_32-81-k-1d-3b-e-f-i-j-2026-07-01-17:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:Round of 32 Match 81: 1D vs 3B/E/F/I/J - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 81\nVenue: San Francisco Bay Area (Santa Clara)\, United States\nLocal kickoff: 2026-07-01 17:00 UTC-7
+LOCATION:San Francisco Bay Area (Santa Clara)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-84-round_of_32-84-k-1h-2j-2026-07-02-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:Round of 32 Match 84: 1H vs 2J - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 84\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-07-02 12:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-83-round_of_32-83-k-2k-2l-2026-07-02-19:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:Round of 32 Match 83: 2K vs 2L - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 83\nVenue: Toronto\, Canada\nLocal kickoff: 2026-07-02 19:00 UTC-4
+LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-85-round_of_32-85-k-1b-3e-f-g-i-j-2026-07-02-20:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:Round of 32 Match 85: 1B vs 3E/F/G/I/J - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 85\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-07-02 20:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-88-round_of_32-88-k-2d-2g-2026-07-03-13:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:Round of 32 Match 88: 2D vs 2G - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 88\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-07-03 13:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-86-round_of_32-86-k-1j-2h-2026-07-03-18:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:Round of 32 Match 86: 1J vs 2H - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 86\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-07-03 18:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-87-round_of_32-87-k-1k-3d-e-i-j-l-2026-07-03-20:30_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Round of 32 Match 87: 1K vs 3D/E/I/J/L - FIFA World Cup 2026
+DESCRIPTION:Round of 32\nRound: Round of 32\nMatch 87\nVenue: Kansas City\, United States\nLocal kickoff: 2026-07-03 20:30 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-90-round_of_16-90-k-w73-w75-2026-07-04-12:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:Round of 16 Match 90: W73 vs W75 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 90\nVenue: Houston\, United States\nLocal kickoff: 2026-07-04 12:00 UTC-5
+LOCATION:Houston\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-89-round_of_16-89-k-w74-w77-2026-07-04-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Round of 16 Match 89: W74 vs W77 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 89\nVenue: Philadelphia\, United States\nLocal kickoff: 2026-07-04 17:00 UTC-4
+LOCATION:Philadelphia\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-91-round_of_16-91-k-w76-w78-2026-07-05-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:Round of 16 Match 91: W76 vs W78 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 91\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-07-05 16:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-92-round_of_16-92-k-w79-w80-2026-07-05-18:00_UTC-6@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:Round of 16 Match 92: W79 vs W80 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 92\nVenue: Mexico City\, Mexico\nLocal kickoff: 2026-07-05 18:00 UTC-6
+LOCATION:Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-93-round_of_16-93-k-w83-w84-2026-07-06-14:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:Round of 16 Match 93: W83 vs W84 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 93\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-07-06 14:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-94-round_of_16-94-k-w81-w82-2026-07-06-17:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Round of 16 Match 94: W81 vs W82 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 94\nVenue: Seattle\, United States\nLocal kickoff: 2026-07-06 17:00 UTC-7
+LOCATION:Seattle\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-95-round_of_16-95-k-w86-w88-2026-07-07-12:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Round of 16 Match 95: W86 vs W88 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 95\nVenue: Atlanta\, United States\nLocal kickoff: 2026-07-07 12:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-96-round_of_16-96-k-w85-w87-2026-07-07-13:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:Round of 16 Match 96: W85 vs W87 - FIFA World Cup 2026
+DESCRIPTION:Round of 16\nRound: Round of 16\nMatch 96\nVenue: Vancouver\, Canada\nLocal kickoff: 2026-07-07 13:00 UTC-7
+LOCATION:Vancouver\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-97-quarter_final-97-k-w89-w90-2026-07-09-16:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:Quarter-final Match 97: W89 vs W90 - FIFA World Cup 2026
+DESCRIPTION:Quarter-final\nRound: Quarter-final\nMatch 97\nVenue: Boston (Foxborough)\, United States\nLocal kickoff: 2026-07-09 16:00 UTC-4
+LOCATION:Boston (Foxborough)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-98-quarter_final-98-k-w93-w94-2026-07-10-12:00_UTC-7@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Quarter-final Match 98: W93 vs W94 - FIFA World Cup 2026
+DESCRIPTION:Quarter-final\nRound: Quarter-final\nMatch 98\nVenue: Los Angeles (Inglewood)\, United States\nLocal kickoff: 2026-07-10 12:00 UTC-7
+LOCATION:Los Angeles (Inglewood)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-99-quarter_final-99-k-w91-w92-2026-07-11-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:Quarter-final Match 99: W91 vs W92 - FIFA World Cup 2026
+DESCRIPTION:Quarter-final\nRound: Quarter-final\nMatch 99\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-07-11 17:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-100-quarter_final-100-k-w95-w96-2026-07-11-20:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Quarter-final Match 100: W95 vs W96 - FIFA World Cup 2026
+DESCRIPTION:Quarter-final\nRound: Quarter-final\nMatch 100\nVenue: Kansas City\, United States\nLocal kickoff: 2026-07-11 20:00 UTC-5
+LOCATION:Kansas City\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-101-semi_final-101-k-w97-w98-2026-07-14-14:00_UTC-5@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Semi-final Match 101: W97 vs W98 - FIFA World Cup 2026
+DESCRIPTION:Semi-final\nRound: Semi-final\nMatch 101\nVenue: Dallas (Arlington)\, United States\nLocal kickoff: 2026-07-14 14:00 UTC-5
+LOCATION:Dallas (Arlington)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-102-semi_final-102-k-w99-w100-2026-07-15-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Semi-final Match 102: W99 vs W100 - FIFA World Cup 2026
+DESCRIPTION:Semi-final\nRound: Semi-final\nMatch 102\nVenue: Atlanta\, United States\nLocal kickoff: 2026-07-15 15:00 UTC-4
+LOCATION:Atlanta\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-103-third_place-md-k-l101-l102-2026-07-18-17:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:Third-place Play-off Match 103: L101 vs L102 - FIFA World Cup 2026
+DESCRIPTION:Third-place Play-off\nRound: Match for third place\nMatch 103\nVenue: Miami (Miami Gardens)\, United States\nLocal kickoff: 2026-07-18 17:00 UTC-4
+LOCATION:Miami (Miami Gardens)\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fx-104-final-md-k-w101-w102-2026-07-19-15:00_UTC-4@wc2026
+DTSTAMP:20260610T152450Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:Final Match 104: W101 vs W102 - FIFA World Cup 2026
+DESCRIPTION:Final\nRound: Final\nMatch 104\nVenue: New York/New Jersey (East Rutherford)\, United States\nLocal kickoff: 2026-07-19 15:00 UTC-4
+LOCATION:New York/New Jersey (East Rutherford)\, United States
+END:VEVENT
+END:VCALENDAR
