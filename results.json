@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T17:35:03.821Z",
+  "updatedAt": "2026-06-15T20:40:23.899Z",
   "season": "2026",
   "matches": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "utcDate": "2026-06-15T16:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Spain",
@@ -251,15 +251,21 @@
     },
     {
       "utcDate": "2026-06-15T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "Belgium",
       "away": "Egypt",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
