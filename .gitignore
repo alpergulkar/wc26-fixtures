@@ -4,6 +4,7 @@ node_modules/
 # Yerel/geçici dosyalar
 _test.js
 *.log
+backups/
 
 # İşletim sistemi / editör artıkları
 Thumbs.db
