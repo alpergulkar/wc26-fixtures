@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T01:41:14.855Z",
+  "updatedAt": "2026-06-16T07:07:09.448Z",
   "season": "2026",
   "matches": [
     {
@@ -289,18 +289,21 @@
     },
     {
       "utcDate": "2026-06-16T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "Iran",
       "away": "New Zealand",
-      "winner": "AWAY_TEAM",
+      "winner": "DRAW",
       "duration": "REGULAR",
       "ft": [
-        0,
+        2,
+        2
+      ],
+      "ht": [
+        1,
         1
       ],
-      "ht": null,
       "pen": null
     },
     {
