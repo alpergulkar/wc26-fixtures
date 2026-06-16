@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T17:32:00.440Z",
+  "updatedAt": "2026-06-16T20:32:23.375Z",
   "season": "2026",
   "matches": [
     {
@@ -308,15 +308,21 @@
     },
     {
       "utcDate": "2026-06-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "home": "France",
       "away": "Senegal",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
