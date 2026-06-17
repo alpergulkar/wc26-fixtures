@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T14:04:34.736Z",
+  "updatedAt": "2026-06-17T17:24:05.155Z",
   "season": "2026",
   "matches": [
     {
@@ -384,14 +384,17 @@
     },
     {
       "utcDate": "2026-06-17T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "home": "Portugal",
       "away": "Congo DR",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        1,
+        0
+      ],
       "ht": null,
       "pen": null
     },
