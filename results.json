@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T19:35:27.229Z",
+  "updatedAt": "2026-06-17T21:35:14.893Z",
   "season": "2026",
   "matches": [
     {
@@ -403,15 +403,21 @@
     },
     {
       "utcDate": "2026-06-17T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "England",
       "away": "Croatia",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        3,
+        2
+      ],
+      "ht": [
+        2,
+        2
+      ],
       "pen": null
     },
     {
