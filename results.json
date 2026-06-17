@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:16:35.253Z",
+  "updatedAt": "2026-06-17T10:14:28.962Z",
   "season": "2026",
   "matches": [
     {
@@ -365,7 +365,7 @@
     },
     {
       "utcDate": "2026-06-17T04:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "home": "Austria",
@@ -373,8 +373,8 @@
       "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        1,
-        0
+        3,
+        1
       ],
       "ht": [
         1,
