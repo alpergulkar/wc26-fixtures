@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:29:24.995Z",
+  "updatedAt": "2026-06-18T10:57:02.431Z",
   "season": "2026",
   "matches": [
     {
@@ -422,7 +422,7 @@
     },
     {
       "utcDate": "2026-06-17T23:00:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "Ghana",
