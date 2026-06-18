@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T19:56:19.902Z",
+  "updatedAt": "2026-06-18T22:10:51.954Z",
   "season": "2026",
   "matches": [
     {
@@ -479,27 +479,36 @@
     },
     {
       "utcDate": "2026-06-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Switzerland",
       "away": "Bosnia-Herzegovina",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        4,
+        1
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
       "utcDate": "2026-06-18T22:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Canada",
       "away": "Qatar",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
