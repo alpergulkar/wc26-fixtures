@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T22:10:51.954Z",
+  "updatedAt": "2026-06-19T00:00:28.137Z",
   "season": "2026",
   "matches": [
     {
@@ -503,13 +503,16 @@
       "group": "GROUP_B",
       "home": "Canada",
       "away": "Qatar",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
+        5,
         0
       ],
-      "ht": null,
+      "ht": [
+        3,
+        0
+      ],
       "pen": null
     },
     {
