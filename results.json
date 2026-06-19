@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T05:24:25.051Z",
+  "updatedAt": "2026-06-19T09:58:28.018Z",
   "season": "2026",
   "matches": [
     {
@@ -47,10 +47,16 @@
       "group": "GROUP_B",
       "home": "Canada",
       "away": "Bosnia-Herzegovina",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
