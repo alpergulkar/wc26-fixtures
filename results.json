@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:14:16.599Z",
+  "updatedAt": "2026-06-19T21:37:21.080Z",
   "season": "2026",
   "matches": [
     {
@@ -536,7 +536,7 @@
     },
     {
       "utcDate": "2026-06-19T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "home": "United States",
