@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T00:00:28.137Z",
+  "updatedAt": "2026-06-19T05:24:25.051Z",
   "season": "2026",
   "matches": [
     {
@@ -47,16 +47,10 @@
       "group": "GROUP_B",
       "home": "Canada",
       "away": "Bosnia-Herzegovina",
-      "winner": "DRAW",
+      "winner": null,
       "duration": "REGULAR",
-      "ft": [
-        1,
-        1
-      ],
-      "ht": [
-        0,
-        1
-      ],
+      "ft": null,
+      "ht": null,
       "pen": null
     },
     {
@@ -498,7 +492,7 @@
     },
     {
       "utcDate": "2026-06-18T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Canada",
@@ -506,7 +500,7 @@
       "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        5,
+        6,
         0
       ],
       "ht": [
@@ -517,15 +511,21 @@
     },
     {
       "utcDate": "2026-06-19T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "home": "Mexico",
       "away": "South Korea",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
