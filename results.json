@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T18:15:56.019Z",
+  "updatedAt": "2026-06-19T20:14:16.599Z",
   "season": "2026",
   "matches": [
     {
@@ -536,15 +536,21 @@
     },
     {
       "utcDate": "2026-06-19T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "home": "United States",
       "away": "Australia",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        2,
+        0
+      ],
+      "ht": [
+        2,
+        0
+      ],
       "pen": null
     },
     {
