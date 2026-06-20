@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:06:38.186Z",
+  "updatedAt": "2026-06-20T17:47:22.511Z",
   "season": "2026",
   "matches": [
     {
@@ -612,14 +612,17 @@
     },
     {
       "utcDate": "2026-06-20T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "home": "Netherlands",
       "away": "Sweden",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        2,
+        0
+      ],
       "ht": null,
       "pen": null
     },
