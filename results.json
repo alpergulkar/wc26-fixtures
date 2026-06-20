@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T19:24:40.034Z",
+  "updatedAt": "2026-06-20T20:50:17.247Z",
   "season": "2026",
   "matches": [
     {
@@ -631,14 +631,17 @@
     },
     {
       "utcDate": "2026-06-20T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home": "Germany",
       "away": "Ivory Coast",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        1
+      ],
       "ht": null,
       "pen": null
     },
