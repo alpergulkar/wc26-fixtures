@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T03:33:49.281Z",
+  "updatedAt": "2026-06-20T07:38:48.501Z",
   "season": "2026",
   "matches": [
     {
@@ -593,7 +593,7 @@
     },
     {
       "utcDate": "2026-06-20T03:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "home": "Turkey",
@@ -604,7 +604,10 @@
         0,
         1
       ],
-      "ht": null,
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
