@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T23:48:07.515Z",
+  "updatedAt": "2026-06-20T03:33:49.281Z",
   "season": "2026",
   "matches": [
     {
@@ -555,7 +555,7 @@
     },
     {
       "utcDate": "2026-06-19T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home": "Scotland",
@@ -574,27 +574,36 @@
     },
     {
       "utcDate": "2026-06-20T00:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home": "Brazil",
       "away": "Haiti",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        3,
+        0
+      ],
+      "ht": [
+        3,
+        0
+      ],
       "pen": null
     },
     {
       "utcDate": "2026-06-20T03:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "home": "Turkey",
       "away": "Paraguay",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        1
+      ],
       "ht": null,
       "pen": null
     },
