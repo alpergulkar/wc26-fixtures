@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T18:51:26.933Z",
+  "updatedAt": "2026-06-21T20:24:24.373Z",
   "season": "2026",
   "matches": [
     {
@@ -707,15 +707,21 @@
     },
     {
       "utcDate": "2026-06-21T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "Belgium",
       "away": "Iran",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
