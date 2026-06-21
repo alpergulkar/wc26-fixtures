@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:24:24.373Z",
+  "updatedAt": "2026-06-21T21:54:00.790Z",
   "season": "2026",
   "matches": [
     {
@@ -696,7 +696,7 @@
       "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        5,
+        4,
         0
       ],
       "ht": [
@@ -707,7 +707,7 @@
     },
     {
       "utcDate": "2026-06-21T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "Belgium",
