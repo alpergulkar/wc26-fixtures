@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:36:00.603Z",
+  "updatedAt": "2026-06-21T02:05:28.034Z",
   "season": "2026",
   "matches": [
     {
@@ -650,15 +650,21 @@
     },
     {
       "utcDate": "2026-06-21T00:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home": "Ecuador",
       "away": "Curaçao",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
