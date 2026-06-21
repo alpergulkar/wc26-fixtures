@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T21:54:00.790Z",
+  "updatedAt": "2026-06-21T23:11:33.086Z",
   "season": "2026",
   "matches": [
     {
@@ -726,15 +726,21 @@
     },
     {
       "utcDate": "2026-06-21T22:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Uruguay",
       "away": "Cape Verde Islands",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        2,
+        1
+      ],
+      "ht": [
+        2,
+        1
+      ],
       "pen": null
     },
     {
