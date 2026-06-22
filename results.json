@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T23:11:33.086Z",
+  "updatedAt": "2026-06-22T01:41:38.506Z",
   "season": "2026",
   "matches": [
     {
@@ -726,16 +726,16 @@
     },
     {
       "utcDate": "2026-06-21T22:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Uruguay",
       "away": "Cape Verde Islands",
-      "winner": "HOME_TEAM",
+      "winner": "DRAW",
       "duration": "REGULAR",
       "ft": [
         2,
-        1
+        2
       ],
       "ht": [
         2,
@@ -745,14 +745,17 @@
     },
     {
       "utcDate": "2026-06-22T01:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "New Zealand",
       "away": "Egypt",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        1,
+        0
+      ],
       "ht": null,
       "pen": null
     },
