@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T20:55:43.061Z",
+  "updatedAt": "2026-06-23T22:13:17.149Z",
   "season": "2026",
   "matches": [
     {
@@ -859,7 +859,7 @@
     },
     {
       "utcDate": "2026-06-23T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "England",
@@ -870,7 +870,10 @@
         0,
         0
       ],
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
@@ -1242,7 +1245,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Germany",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1294,7 +1297,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Mexico",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1333,7 +1336,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "United States",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
