@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:41:25.178Z",
+  "updatedAt": "2026-06-23T18:32:16.918Z",
   "season": "2026",
   "matches": [
     {
@@ -840,15 +840,21 @@
     },
     {
       "utcDate": "2026-06-23T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "home": "Portugal",
       "away": "Uzbekistan",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        4,
+        0
+      ],
+      "ht": [
+        3,
+        0
+      ],
       "pen": null
     },
     {
