@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T04:20:12.231Z",
+  "updatedAt": "2026-06-23T08:03:22.390Z",
   "season": "2026",
   "matches": [
     {
@@ -821,16 +821,16 @@
     },
     {
       "utcDate": "2026-06-23T03:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "home": "Jordan",
       "away": "Algeria",
-      "winner": "HOME_TEAM",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         1,
-        0
+        2
       ],
       "ht": [
         1,
@@ -1233,7 +1233,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Germany",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1285,7 +1285,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Mexico",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1324,7 +1324,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "United States",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
