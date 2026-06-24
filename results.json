@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T20:55:59.605Z",
+  "updatedAt": "2026-06-24T22:18:36.130Z",
   "season": "2026",
   "matches": [
     {
@@ -916,7 +916,7 @@
     },
     {
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Switzerland",
@@ -935,7 +935,7 @@
     },
     {
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Bosnia-Herzegovina",
@@ -954,27 +954,33 @@
     },
     {
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home": "Morocco",
       "away": "Haiti",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        1
+      ],
       "ht": null,
       "pen": null
     },
     {
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home": "Scotland",
       "away": "Brazil",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        1
+      ],
       "ht": null,
       "pen": null
     },
@@ -1269,7 +1275,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Germany",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1321,7 +1327,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Mexico",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1360,7 +1366,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "United States",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1425,7 +1431,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Argentina",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
