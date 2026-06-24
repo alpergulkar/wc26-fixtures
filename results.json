@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:31:46.851Z",
+  "updatedAt": "2026-06-24T01:31:40.112Z",
   "season": "2026",
   "matches": [
     {
@@ -878,18 +878,21 @@
     },
     {
       "utcDate": "2026-06-23T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "Panama",
       "away": "Croatia",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         0,
+        1
+      ],
+      "ht": [
+        0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
@@ -1248,7 +1251,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Germany",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1300,7 +1303,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Mexico",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1339,7 +1342,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "United States",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
