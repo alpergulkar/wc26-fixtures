@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T01:31:40.112Z",
+  "updatedAt": "2026-06-24T05:49:33.766Z",
   "season": "2026",
   "matches": [
     {
@@ -897,15 +897,21 @@
     },
     {
       "utcDate": "2026-06-24T02:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "home": "Colombia",
       "away": "Congo DR",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
