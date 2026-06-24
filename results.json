@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:18:03.036Z",
+  "updatedAt": "2026-06-24T19:09:59.046Z",
   "season": "2026",
   "matches": [
     {
@@ -916,27 +916,33 @@
     },
     {
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Switzerland",
       "away": "Canada",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
     {
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home": "Bosnia-Herzegovina",
       "away": "Qatar",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
@@ -1257,7 +1263,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Germany",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1309,7 +1315,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Mexico",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1348,7 +1354,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "United States",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1413,7 +1419,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Argentina",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
