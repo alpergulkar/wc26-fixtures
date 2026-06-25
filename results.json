@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T09:44:27.525Z",
+  "updatedAt": "2026-06-25T12:07:49.740Z",
   "season": "2026",
   "matches": [
     {
@@ -1293,7 +1293,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Germany",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1345,7 +1345,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Mexico",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1384,7 +1384,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "United States",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1449,7 +1449,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": "Argentina",
+      "home": null,
       "away": null,
       "winner": null,
       "duration": "REGULAR",
