@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T21:11:05.703Z",
+  "updatedAt": "2026-06-25T22:46:30.284Z",
   "season": "2026",
   "matches": [
     {
@@ -1030,15 +1030,15 @@
     },
     {
       "utcDate": "2026-06-25T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home": "Ecuador",
       "away": "Germany",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        1,
+        2,
         1
       ],
       "ht": [
@@ -1049,7 +1049,7 @@
     },
     {
       "utcDate": "2026-06-25T20:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home": "Curaçao",
@@ -1058,7 +1058,7 @@
       "duration": "REGULAR",
       "ft": [
         0,
-        1
+        2
       ],
       "ht": [
         0,
@@ -1305,7 +1305,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Germany",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1357,7 +1357,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Mexico",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1396,7 +1396,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "United States",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1461,7 +1461,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Argentina",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
