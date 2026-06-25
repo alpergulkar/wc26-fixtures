@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T01:49:56.676Z",
+  "updatedAt": "2026-06-25T06:06:14.835Z",
   "season": "2026",
   "matches": [
     {
@@ -992,34 +992,40 @@
     },
     {
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "home": "Czechia",
       "away": "Mexico",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         0,
+        3
+      ],
+      "ht": [
+        0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "home": "South Africa",
       "away": "South Korea",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
+        1,
+        0
+      ],
+      "ht": [
         0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
