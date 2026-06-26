@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:46:30.284Z",
+  "updatedAt": "2026-06-26T00:07:54.100Z",
   "season": "2026",
   "matches": [
     {
@@ -1068,28 +1068,40 @@
     },
     {
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "home": "Tunisia",
       "away": "Netherlands",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        2
+      ],
+      "ht": [
+        0,
+        2
+      ],
       "pen": null
     },
     {
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "home": "Japan",
       "away": "Sweden",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
