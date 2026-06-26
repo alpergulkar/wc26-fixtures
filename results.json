@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:05:52.123Z",
+  "updatedAt": "2026-06-26T22:36:00.519Z",
   "season": "2026",
   "matches": [
     {
@@ -1163,7 +1163,7 @@
     },
     {
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "home": "Senegal",
