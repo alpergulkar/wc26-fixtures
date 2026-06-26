@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T17:24:27.853Z",
+  "updatedAt": "2026-06-26T19:18:15.756Z",
   "season": "2026",
   "matches": [
     {
@@ -1144,27 +1144,33 @@
     },
     {
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "home": "Norway",
       "away": "France",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        1
+      ],
       "ht": null,
       "pen": null
     },
     {
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "home": "Senegal",
       "away": "Iraq",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        1,
+        0
+      ],
       "ht": null,
       "pen": null
     },
