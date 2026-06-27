@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T20:44:11.763Z",
+  "updatedAt": "2026-06-27T21:46:15.455Z",
   "season": "2026",
   "matches": [
     {
@@ -1258,27 +1258,33 @@
     },
     {
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "Panama",
       "away": "England",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
     {
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "home": "Croatia",
       "away": "Ghana",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        1,
+        0
+      ],
       "ht": null,
       "pen": null
     },
