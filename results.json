@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T02:57:15.490Z",
+  "updatedAt": "2026-06-27T06:32:16.917Z",
   "season": "2026",
   "matches": [
     {
@@ -1220,28 +1220,40 @@
     },
     {
       "utcDate": "2026-06-27T03:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "New Zealand",
       "away": "Belgium",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        5
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
       "utcDate": "2026-06-27T03:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "home": "Egypt",
       "away": "Iran",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        1,
+        1
+      ],
+      "ht": [
+        1,
+        1
+      ],
       "pen": null
     },
     {
@@ -1379,7 +1391,7 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "group": null,
-      "home": null,
+      "home": "Ivory Coast",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
