@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T23:46:43.803Z",
+  "updatedAt": "2026-06-27T02:57:15.490Z",
   "season": "2026",
   "matches": [
     {
@@ -1182,28 +1182,40 @@
     },
     {
       "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Uruguay",
       "away": "Spain",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
       "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "home": "Cape Verde Islands",
       "away": "Saudi Arabia",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
