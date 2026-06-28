@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T19:53:47.729Z",
+  "updatedAt": "2026-06-28T21:00:15.186Z",
   "season": "2026",
   "matches": [
     {
@@ -1372,18 +1372,21 @@
     },
     {
       "utcDate": "2026-06-28T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "stage": "LAST_32",
       "group": null,
       "home": "South Africa",
       "away": "Canada",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         0,
+        1
+      ],
+      "ht": [
+        0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
