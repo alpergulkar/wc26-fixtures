@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T21:00:15.186Z",
+  "updatedAt": "2026-06-28T22:14:17.414Z",
   "season": "2026",
   "matches": [
     {
@@ -1372,7 +1372,7 @@
     },
     {
       "utcDate": "2026-06-28T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "South Africa",
