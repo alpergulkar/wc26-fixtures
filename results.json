@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T21:51:03.595Z",
+  "updatedAt": "2026-06-29T22:56:02.836Z",
   "season": "2026",
   "matches": [
     {
@@ -1415,10 +1415,10 @@
       "group": null,
       "home": "Germany",
       "away": "Paraguay",
-      "winner": "AWAY_TEAM",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
+        2,
         1
       ],
       "ht": [
