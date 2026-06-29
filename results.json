@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T01:54:18.263Z",
+  "updatedAt": "2026-06-29T06:46:26.957Z",
   "season": "2026",
   "matches": [
     {
@@ -1589,7 +1589,7 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
+      "home": "Canada",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
