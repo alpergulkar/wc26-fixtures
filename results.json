@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T18:18:10.735Z",
+  "updatedAt": "2026-06-29T20:23:45.198Z",
   "season": "2026",
   "matches": [
     {
@@ -1391,15 +1391,15 @@
     },
     {
       "utcDate": "2026-06-29T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Brazil",
       "away": "Japan",
-      "winner": "AWAY_TEAM",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
+        2,
         1
       ],
       "ht": [
