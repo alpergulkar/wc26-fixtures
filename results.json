@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:23:45.198Z",
+  "updatedAt": "2026-06-29T21:51:03.595Z",
   "season": "2026",
   "matches": [
     {
@@ -1410,15 +1410,21 @@
     },
     {
       "utcDate": "2026-06-29T20:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "LAST_32",
       "group": null,
       "home": "Germany",
       "away": "Paraguay",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
