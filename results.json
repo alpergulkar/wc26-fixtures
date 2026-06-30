@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T04:33:38.585Z",
+  "updatedAt": "2026-06-30T08:20:16.138Z",
   "season": "2026",
   "matches": [
     {
@@ -1415,7 +1415,7 @@
       "group": null,
       "home": "Germany",
       "away": "Paraguay",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "PENALTY_SHOOTOUT",
       "ft": [
         4,
@@ -1426,7 +1426,7 @@
         1
       ],
       "pen": [
-        4,
+        3,
         4
       ]
     },
@@ -1437,7 +1437,7 @@
       "group": null,
       "home": "Netherlands",
       "away": "Morocco",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "PENALTY_SHOOTOUT",
       "ft": [
         3,
@@ -1448,7 +1448,7 @@
         0
       ],
       "pen": [
-        3,
+        2,
         3
       ]
     },
@@ -1614,7 +1614,7 @@
       "stage": "LAST_16",
       "group": null,
       "home": "Canada",
-      "away": null,
+      "away": "Morocco",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1626,7 +1626,7 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
+      "home": "Paraguay",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1639,7 +1639,7 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
+      "home": "Brazil",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
