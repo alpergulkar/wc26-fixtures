@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:56:02.836Z",
+  "updatedAt": "2026-06-30T00:05:10.461Z",
   "season": "2026",
   "matches": [
     {
@@ -1410,22 +1410,25 @@
     },
     {
       "utcDate": "2026-06-29T20:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Germany",
       "away": "Paraguay",
-      "winner": "HOME_TEAM",
-      "duration": "REGULAR",
+      "winner": null,
+      "duration": "PENALTY_SHOOTOUT",
       "ft": [
-        2,
-        1
+        5,
+        6
       ],
       "ht": [
         0,
         1
       ],
-      "pen": null
+      "pen": [
+        5,
+        5
+      ]
     },
     {
       "utcDate": "2026-06-30T01:00:00Z",
