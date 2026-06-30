@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T00:05:10.461Z",
+  "updatedAt": "2026-06-30T04:33:38.585Z",
   "season": "2026",
   "matches": [
     {
@@ -1418,30 +1418,39 @@
       "winner": null,
       "duration": "PENALTY_SHOOTOUT",
       "ft": [
-        5,
-        6
+        4,
+        5
       ],
       "ht": [
         0,
         1
       ],
       "pen": [
-        5,
-        5
+        4,
+        4
       ]
     },
     {
       "utcDate": "2026-06-30T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Netherlands",
       "away": "Morocco",
       "winner": null,
-      "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
-      "pen": null
+      "duration": "PENALTY_SHOOTOUT",
+      "ft": [
+        3,
+        4
+      ],
+      "ht": [
+        0,
+        0
+      ],
+      "pen": [
+        3,
+        3
+      ]
     },
     {
       "utcDate": "2026-06-30T17:00:00Z",
