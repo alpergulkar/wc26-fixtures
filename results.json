@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:14:20.050Z",
+  "updatedAt": "2026-06-30T20:21:31.670Z",
   "season": "2026",
   "matches": [
     {
@@ -1454,7 +1454,7 @@
     },
     {
       "utcDate": "2026-06-30T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Ivory Coast",
@@ -1462,8 +1462,8 @@
       "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
-        1
+        1,
+        2
       ],
       "ht": [
         0,
