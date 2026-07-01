@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T22:39:36.052Z",
+  "updatedAt": "2026-07-01T23:55:28.283Z",
   "season": "2026",
   "matches": [
     {
@@ -1530,15 +1530,15 @@
     },
     {
       "utcDate": "2026-07-01T20:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Belgium",
       "away": "Senegal",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "EXTRA_TIME",
       "ft": [
-        2,
+        3,
         2
       ],
       "ht": [
