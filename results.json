@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T01:32:46.825Z",
+  "updatedAt": "2026-07-01T06:10:22.351Z",
   "season": "2026",
   "matches": [
     {
@@ -1492,18 +1492,21 @@
     },
     {
       "utcDate": "2026-07-01T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Mexico",
       "away": "Ecuador",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
+        2,
         0
       ],
-      "ht": null,
+      "ht": [
+        2,
+        0
+      ],
       "pen": null
     },
     {
@@ -1642,7 +1645,7 @@
       "stage": "LAST_16",
       "group": null,
       "home": "Paraguay",
-      "away": null,
+      "away": "France",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1655,7 +1658,7 @@
       "stage": "LAST_16",
       "group": null,
       "home": "Brazil",
-      "away": null,
+      "away": "Norway",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
