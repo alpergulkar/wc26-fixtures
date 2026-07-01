@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:11:12.357Z",
+  "updatedAt": "2026-07-01T01:32:46.825Z",
   "season": "2026",
   "matches": [
     {
@@ -1492,14 +1492,17 @@
     },
     {
       "utcDate": "2026-07-01T01:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "LAST_32",
       "group": null,
       "home": "Mexico",
       "away": "Ecuador",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
