@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T15:40:33.027Z",
+  "updatedAt": "2026-07-01T17:32:44.949Z",
   "season": "2026",
   "matches": [
     {
@@ -1511,15 +1511,21 @@
     },
     {
       "utcDate": "2026-07-01T16:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "LAST_32",
       "group": null,
       "home": "England",
       "away": "Congo DR",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
