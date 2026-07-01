@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T21:06:00.481Z",
+  "updatedAt": "2026-07-01T22:39:36.052Z",
   "season": "2026",
   "matches": [
     {
@@ -1535,11 +1535,11 @@
       "group": null,
       "home": "Belgium",
       "away": "Senegal",
-      "winner": "AWAY_TEAM",
-      "duration": "REGULAR",
+      "winner": "DRAW",
+      "duration": "EXTRA_TIME",
       "ft": [
-        0,
-        1
+        2,
+        2
       ],
       "ht": [
         0,
