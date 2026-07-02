@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:01:21.389Z",
+  "updatedAt": "2026-07-02T21:32:05.996Z",
   "season": "2026",
   "matches": [
     {
@@ -1568,7 +1568,7 @@
     },
     {
       "utcDate": "2026-07-02T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Spain",
@@ -1576,7 +1576,7 @@
       "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        1,
+        3,
         0
       ],
       "ht": [
