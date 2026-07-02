@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T03:32:16.443Z",
+  "updatedAt": "2026-07-02T06:56:34.210Z",
   "season": "2026",
   "matches": [
     {
@@ -1536,7 +1536,7 @@
       "home": "Belgium",
       "away": "Senegal",
       "winner": "HOME_TEAM",
-      "duration": "REGULAR",
+      "duration": "EXTRA_TIME",
       "ft": [
         3,
         2
@@ -1688,8 +1688,8 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Mexico",
+      "away": "England",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1714,8 +1714,8 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "United States",
+      "away": "Belgium",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
