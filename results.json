@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T04:07:56.543Z",
+  "updatedAt": "2026-07-03T07:35:35.326Z",
   "season": "2026",
   "matches": [
     {
@@ -1606,7 +1606,7 @@
     },
     {
       "utcDate": "2026-07-03T03:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Switzerland",
@@ -1614,7 +1614,7 @@
       "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        1,
+        2,
         0
       ],
       "ht": [
