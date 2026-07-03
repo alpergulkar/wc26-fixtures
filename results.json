@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T20:37:47.724Z",
+  "updatedAt": "2026-07-03T21:45:01.613Z",
   "season": "2026",
   "matches": [
     {
@@ -1625,22 +1625,25 @@
     },
     {
       "utcDate": "2026-07-03T18:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "LAST_32",
       "group": null,
       "home": "Australia",
       "away": "Egypt",
-      "winner": "DRAW",
-      "duration": "EXTRA_TIME",
+      "winner": null,
+      "duration": "PENALTY_SHOOTOUT",
       "ft": [
-        1,
-        1
+        3,
+        5
       ],
       "ht": [
         0,
         1
       ],
-      "pen": null
+      "pen": [
+        4,
+        4
+      ]
     },
     {
       "utcDate": "2026-07-03T22:00:00Z",
