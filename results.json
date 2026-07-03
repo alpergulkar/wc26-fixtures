@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:19:40.261Z",
+  "updatedAt": "2026-07-03T20:37:47.724Z",
   "season": "2026",
   "matches": [
     {
@@ -1625,15 +1625,15 @@
     },
     {
       "utcDate": "2026-07-03T18:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "stage": "LAST_32",
       "group": null,
       "home": "Australia",
       "away": "Egypt",
-      "winner": "AWAY_TEAM",
-      "duration": "REGULAR",
+      "winner": "DRAW",
+      "duration": "EXTRA_TIME",
       "ft": [
-        0,
+        1,
         1
       ],
       "ht": [
