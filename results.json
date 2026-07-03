@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T22:46:07.716Z",
+  "updatedAt": "2026-07-03T00:04:29.931Z",
   "season": "2026",
   "matches": [
     {
@@ -1587,15 +1587,21 @@
     },
     {
       "utcDate": "2026-07-02T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "LAST_32",
       "group": null,
       "home": "Portugal",
       "away": "Croatia",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
