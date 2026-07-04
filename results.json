@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T16:34:08.139Z",
+  "updatedAt": "2026-07-04T17:44:33.622Z",
   "season": "2026",
   "matches": [
     {
@@ -1685,14 +1685,17 @@
     },
     {
       "utcDate": "2026-07-04T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "LAST_16",
       "group": null,
       "home": "Canada",
       "away": "Morocco",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
