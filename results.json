@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T04:01:08.269Z",
+  "updatedAt": "2026-07-04T07:14:23.745Z",
   "season": "2026",
   "matches": [
     {
@@ -1630,7 +1630,7 @@
       "group": null,
       "home": "Australia",
       "away": "Egypt",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "PENALTY_SHOOTOUT",
       "ft": [
         3,
@@ -1641,7 +1641,7 @@
         1
       ],
       "pen": [
-        4,
+        2,
         4
       ]
     },
@@ -1740,8 +1740,8 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Portugal",
+      "away": "Spain",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1766,8 +1766,8 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Argentina",
+      "away": "Egypt",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1779,8 +1779,8 @@
       "status": "TIMED",
       "stage": "LAST_16",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Switzerland",
+      "away": "Colombia",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
