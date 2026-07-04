@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T21:01:50.641Z",
+  "updatedAt": "2026-07-04T22:10:44.504Z",
   "season": "2026",
   "matches": [
     {
@@ -1704,15 +1704,21 @@
     },
     {
       "utcDate": "2026-07-04T21:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "LAST_16",
       "group": null,
       "home": "Paraguay",
       "away": "France",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
