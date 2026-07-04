@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T17:44:33.622Z",
+  "updatedAt": "2026-07-04T18:43:33.146Z",
   "season": "2026",
   "matches": [
     {
@@ -1690,13 +1690,16 @@
       "group": null,
       "home": "Canada",
       "away": "Morocco",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         0,
+        1
+      ],
+      "ht": [
+        0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
