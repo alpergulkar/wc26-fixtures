@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:28:31.733Z",
+  "updatedAt": "2026-07-05T22:32:54.209Z",
   "season": "2026",
   "matches": [
     {
@@ -1723,16 +1723,16 @@
     },
     {
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Brazil",
       "away": "Norway",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
-        0
+        1,
+        2
       ],
       "ht": [
         0,
