@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:32:54.209Z",
+  "updatedAt": "2026-07-05T23:44:09.300Z",
   "season": "2026",
   "matches": [
     {
@@ -1741,8 +1741,8 @@
       "pen": null
     },
     {
-      "utcDate": "2026-07-06T00:00:00Z",
-      "status": "TIMED",
+      "utcDate": "2026-07-06T01:00:00Z",
+      "status": "2026-07-06 01:00:00Z",
       "stage": "LAST_16",
       "group": null,
       "home": "Mexico",
