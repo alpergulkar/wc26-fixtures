@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T20:12:37.545Z",
+  "updatedAt": "2026-07-05T21:28:31.733Z",
   "season": "2026",
   "matches": [
     {
@@ -1723,7 +1723,7 @@
     },
     {
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "LIVE",
       "stage": "LAST_16",
       "group": null,
       "home": "Brazil",
@@ -1734,7 +1734,10 @@
         0,
         0
       ],
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
