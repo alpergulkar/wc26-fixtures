@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:45:21.379Z",
+  "updatedAt": "2026-07-05T20:12:37.545Z",
   "season": "2026",
   "matches": [
     {
@@ -1723,14 +1723,17 @@
     },
     {
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "LAST_16",
       "group": null,
       "home": "Brazil",
       "away": "Norway",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
