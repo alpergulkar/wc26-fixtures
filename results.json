@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T05:57:28.827Z",
+  "updatedAt": "2026-07-06T10:47:40.234Z",
   "season": "2026",
   "matches": [
     {
@@ -1842,8 +1842,8 @@
       "status": "TIMED",
       "stage": "QUARTER_FINALS",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Norway",
+      "away": "England",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
