@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:26:07.354Z",
+  "updatedAt": "2026-07-06T05:57:28.827Z",
   "season": "2026",
   "matches": [
     {
@@ -1742,18 +1742,21 @@
     },
     {
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Mexico",
       "away": "England",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
-        0
+        2,
+        3
       ],
-      "ht": null,
+      "ht": [
+        1,
+        2
+      ],
       "pen": null
     },
     {
