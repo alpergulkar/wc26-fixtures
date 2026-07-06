@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T19:15:34.083Z",
+  "updatedAt": "2026-07-06T21:10:06.178Z",
   "season": "2026",
   "matches": [
     {
@@ -1761,18 +1761,21 @@
     },
     {
       "utcDate": "2026-07-06T19:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Portugal",
       "away": "Spain",
-      "winner": "DRAW",
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
         0,
+        1
+      ],
+      "ht": [
+        0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
