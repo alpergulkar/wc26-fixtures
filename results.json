@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T16:56:58.743Z",
+  "updatedAt": "2026-07-07T19:04:26.072Z",
   "season": "2026",
   "matches": [
     {
@@ -1799,18 +1799,21 @@
     },
     {
       "utcDate": "2026-07-07T16:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Argentina",
       "away": "Egypt",
-      "winner": "AWAY_TEAM",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
+        3,
+        2
+      ],
+      "ht": [
         0,
         1
       ],
-      "ht": null,
       "pen": null
     },
     {
