@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T05:39:21.258Z",
+  "updatedAt": "2026-07-07T08:55:07.967Z",
   "season": "2026",
   "matches": [
     {
@@ -1841,8 +1841,8 @@
       "status": "TIMED",
       "stage": "QUARTER_FINALS",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Spain",
+      "away": "Belgium",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
