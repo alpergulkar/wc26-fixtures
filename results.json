@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T19:04:26.072Z",
+  "updatedAt": "2026-07-07T20:58:05.591Z",
   "season": "2026",
   "matches": [
     {
@@ -1818,15 +1818,21 @@
     },
     {
       "utcDate": "2026-07-07T20:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "LAST_16",
       "group": null,
       "home": "Switzerland",
       "away": "Colombia",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        0
+      ],
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     },
     {
