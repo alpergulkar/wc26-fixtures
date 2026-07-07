@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:16:06.263Z",
+  "updatedAt": "2026-07-07T23:29:18.627Z",
   "season": "2026",
   "matches": [
     {
@@ -1818,22 +1818,25 @@
     },
     {
       "utcDate": "2026-07-07T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Switzerland",
       "away": "Colombia",
-      "winner": "DRAW",
-      "duration": "REGULAR",
+      "winner": null,
+      "duration": "PENALTY_SHOOTOUT",
       "ft": [
-        0,
-        0
+        4,
+        3
       ],
       "ht": [
         0,
         0
       ],
-      "pen": null
+      "pen": [
+        3,
+        3
+      ]
     },
     {
       "utcDate": "2026-07-09T20:00:00Z",
