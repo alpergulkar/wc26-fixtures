@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T04:31:31.303Z",
+  "updatedAt": "2026-07-08T07:14:36.455Z",
   "season": "2026",
   "matches": [
     {
@@ -1823,7 +1823,7 @@
       "group": null,
       "home": "Switzerland",
       "away": "Colombia",
-      "winner": null,
+      "winner": "HOME_TEAM",
       "duration": "PENALTY_SHOOTOUT",
       "ft": [
         4,
@@ -1834,7 +1834,7 @@
         0
       ],
       "pen": [
-        3,
+        4,
         3
       ]
     },
@@ -1882,8 +1882,8 @@
       "status": "TIMED",
       "stage": "QUARTER_FINALS",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "Argentina",
+      "away": "Switzerland",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
