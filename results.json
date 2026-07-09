@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T21:07:09.543Z",
+  "updatedAt": "2026-07-09T22:43:11.528Z",
   "season": "2026",
   "matches": [
     {
@@ -1840,15 +1840,15 @@
     },
     {
       "utcDate": "2026-07-09T20:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "QUARTER_FINALS",
       "group": null,
       "home": "France",
       "away": "Morocco",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
+        2,
         0
       ],
       "ht": [
