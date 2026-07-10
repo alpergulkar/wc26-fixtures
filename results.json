@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T20:38:32.851Z",
+  "updatedAt": "2026-07-10T21:41:46.053Z",
   "season": "2026",
   "matches": [
     {
@@ -1859,15 +1859,15 @@
     },
     {
       "utcDate": "2026-07-10T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "QUARTER_FINALS",
       "group": null,
       "home": "Spain",
       "away": "Belgium",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
-        1,
+        2,
         1
       ],
       "ht": [
