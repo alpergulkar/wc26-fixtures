@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T04:28:00.715Z",
+  "updatedAt": "2026-07-11T06:36:51.378Z",
   "season": "2026",
   "matches": [
     {
@@ -1908,7 +1908,7 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "home": "France",
-      "away": null,
+      "away": "Spain",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
