@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:06:23.114Z",
+  "updatedAt": "2026-07-11T22:07:36.624Z",
   "season": "2026",
   "matches": [
     {
@@ -1742,7 +1742,7 @@
     },
     {
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "FINISHED",
+      "status": "2026-07-06 01:00:00Z",
       "stage": "LAST_16",
       "group": null,
       "home": "Mexico",
@@ -1878,7 +1878,7 @@
     },
     {
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "stage": "QUARTER_FINALS",
       "group": null,
       "home": "Norway",
@@ -1886,10 +1886,13 @@
       "winner": "DRAW",
       "duration": "REGULAR",
       "ft": [
-        0,
-        0
+        1,
+        1
       ],
-      "ht": null,
+      "ht": [
+        1,
+        1
+      ],
       "pen": null
     },
     {
