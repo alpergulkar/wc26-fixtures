@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T03:57:14.309Z",
+  "updatedAt": "2026-07-12T06:37:30.911Z",
   "season": "2026",
   "matches": [
     {
@@ -1742,7 +1742,7 @@
     },
     {
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "2026-07-06 01:00:00Z",
+      "status": "FINISHED",
       "stage": "LAST_16",
       "group": null,
       "home": "Mexico",
@@ -1932,8 +1932,8 @@
       "status": "TIMED",
       "stage": "SEMI_FINALS",
       "group": null,
-      "home": null,
-      "away": null,
+      "home": "England",
+      "away": "Argentina",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
