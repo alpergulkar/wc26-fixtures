@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T00:10:45.726Z",
+  "updatedAt": "2026-07-12T03:57:14.309Z",
   "season": "2026",
   "matches": [
     {
@@ -1897,15 +1897,21 @@
     },
     {
       "utcDate": "2026-07-12T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "stage": "QUARTER_FINALS",
       "group": null,
       "home": "Argentina",
       "away": "Switzerland",
-      "winner": null,
-      "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "winner": "HOME_TEAM",
+      "duration": "EXTRA_TIME",
+      "ft": [
+        3,
+        1
+      ],
+      "ht": [
+        1,
+        0
+      ],
       "pen": null
     },
     {
