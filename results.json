@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:10:20.840Z",
+  "updatedAt": "2026-07-12T00:10:45.726Z",
   "season": "2026",
   "matches": [
     {
@@ -1878,16 +1878,16 @@
     },
     {
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "QUARTER_FINALS",
       "group": null,
       "home": "Norway",
       "away": "England",
-      "winner": "DRAW",
-      "duration": "REGULAR",
+      "winner": "AWAY_TEAM",
+      "duration": "EXTRA_TIME",
       "ft": [
         1,
-        1
+        2
       ],
       "ht": [
         1,
