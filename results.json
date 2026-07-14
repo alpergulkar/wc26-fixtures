@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:09:51.982Z",
+  "updatedAt": "2026-07-14T21:14:49.457Z",
   "season": "2026",
   "matches": [
     {
@@ -1916,7 +1916,7 @@
     },
     {
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "SEMI_FINALS",
       "group": null,
       "home": "France",
@@ -1925,7 +1925,7 @@
       "duration": "REGULAR",
       "ft": [
         0,
-        1
+        2
       ],
       "ht": [
         0,
