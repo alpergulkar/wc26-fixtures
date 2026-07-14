@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:47:22.405Z",
+  "updatedAt": "2026-07-14T20:09:51.982Z",
   "season": "2026",
   "matches": [
     {
@@ -1916,15 +1916,21 @@
     },
     {
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "SEMI_FINALS",
       "group": null,
       "home": "France",
       "away": "Spain",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        1
+      ],
+      "ht": [
+        0,
+        1
+      ],
       "pen": null
     },
     {
