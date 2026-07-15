@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T05:58:46.763Z",
+  "updatedAt": "2026-07-15T08:28:47.539Z",
   "season": "2026",
   "matches": [
     {
@@ -1951,7 +1951,7 @@
       "status": "TIMED",
       "stage": "THIRD_PLACE",
       "group": null,
-      "home": null,
+      "home": "France",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
@@ -1964,7 +1964,7 @@
       "status": "TIMED",
       "stage": "FINAL",
       "group": null,
-      "home": null,
+      "home": "Spain",
       "away": null,
       "winner": null,
       "duration": "REGULAR",
