@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:36:26.503Z",
+  "updatedAt": "2026-07-15T20:41:48.745Z",
   "season": "2026",
   "matches": [
     {
@@ -1940,13 +1940,16 @@
       "group": null,
       "home": "England",
       "away": "Argentina",
-      "winner": "DRAW",
+      "winner": "HOME_TEAM",
       "duration": "REGULAR",
       "ft": [
+        1,
+        0
+      ],
+      "ht": [
         0,
         0
       ],
-      "ht": null,
       "pen": null
     },
     {
