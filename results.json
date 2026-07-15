@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T18:06:00.431Z",
+  "updatedAt": "2026-07-15T19:36:26.503Z",
   "season": "2026",
   "matches": [
     {
@@ -1935,14 +1935,17 @@
     },
     {
       "utcDate": "2026-07-15T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "stage": "SEMI_FINALS",
       "group": null,
       "home": "England",
       "away": "Argentina",
-      "winner": null,
+      "winner": "DRAW",
       "duration": "REGULAR",
-      "ft": null,
+      "ft": [
+        0,
+        0
+      ],
       "ht": null,
       "pen": null
     },
