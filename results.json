@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T04:25:17.512Z",
+  "updatedAt": "2026-07-16T06:42:28.505Z",
   "season": "2026",
   "matches": [
     {
@@ -1958,7 +1958,7 @@
       "stage": "THIRD_PLACE",
       "group": null,
       "home": "France",
-      "away": null,
+      "away": "England",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
@@ -1971,7 +1971,7 @@
       "stage": "FINAL",
       "group": null,
       "home": "Spain",
-      "away": null,
+      "away": "Argentina",
       "winner": null,
       "duration": "REGULAR",
       "ft": null,
