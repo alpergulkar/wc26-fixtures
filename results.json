@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:05:58.232Z",
+  "updatedAt": "2026-07-18T22:06:55.733Z",
   "season": "2026",
   "matches": [
     {
@@ -1954,15 +1954,21 @@
     },
     {
       "utcDate": "2026-07-18T21:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "stage": "THIRD_PLACE",
       "group": null,
       "home": "France",
       "away": "England",
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
-      "ft": null,
-      "ht": null,
+      "ft": [
+        0,
+        4
+      ],
+      "ht": [
+        0,
+        4
+      ],
       "pen": null
     },
     {
