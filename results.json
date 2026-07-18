@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:06:55.733Z",
+  "updatedAt": "2026-07-18T23:10:24.811Z",
   "season": "2026",
   "matches": [
     {
@@ -1954,7 +1954,7 @@
     },
     {
       "utcDate": "2026-07-18T21:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "stage": "THIRD_PLACE",
       "group": null,
       "home": "France",
@@ -1962,8 +1962,8 @@
       "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "ft": [
-        0,
-        4
+        4,
+        6
       ],
       "ht": [
         0,
