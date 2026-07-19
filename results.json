@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:36:29.377Z",
+  "updatedAt": "2026-07-19T22:34:40.198Z",
   "season": "2026",
   "matches": [
     {
@@ -1973,15 +1973,15 @@
     },
     {
       "utcDate": "2026-07-19T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "FINAL",
       "group": null,
       "home": "Spain",
       "away": "Argentina",
-      "winner": "DRAW",
-      "duration": "REGULAR",
+      "winner": "HOME_TEAM",
+      "duration": "EXTRA_TIME",
       "ft": [
-        0,
+        1,
         0
       ],
       "ht": [
