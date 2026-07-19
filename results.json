@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:53:16.722Z",
+  "updatedAt": "2026-07-19T20:44:18.580Z",
   "season": "2026",
   "matches": [
     {
@@ -1973,7 +1973,7 @@
     },
     {
       "utcDate": "2026-07-19T19:00:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "stage": "FINAL",
       "group": null,
       "home": "Spain",
@@ -1984,7 +1984,10 @@
         0,
         0
       ],
-      "ht": null,
+      "ht": [
+        0,
+        0
+      ],
       "pen": null
     }
   ],
